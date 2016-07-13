@@ -17,15 +17,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.fnst.smartwork</string>
+				<string>com.kingkr.kxylelx</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>2.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
 				<string>com.kingkr.kxylelx2.ipa</string>
 			</dict>
 		</dict>
-	</array>
+	</array>  
 </dict>
 </plist>
